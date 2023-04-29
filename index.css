@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.side{
+    height: 150vh;
+    width: 300px;
+    background-color: black;
+}
+.side img{
+    height: 27vh;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 50%;
+}
+.all{
+    /* margin: 50px; */
+    /* display: flex; */
+}
+.green{
+    width: 200px;
+    height: 5vh;
+    background-color:rgb(6, 93, 93);
+    margin-top: 10px;
+}
+.green h3{
+    align-items: center;
+    margin: 30px;
+    margin-top: 30px;
+}
+
+.info p{
+color: aliceblue;
+margin-top: 10px;
+
+}
+.info {
+    margin-left: 50px;
+}
+.right{
+    background-color: rgb(126, 126, 151);
+    height: 150vh;
+    width: 963px;
+    float: right;
+ margin-top: -1000px;
+/* margin-right: 60px; */
+}
+.name{
+    background-color: rgb(10, 125, 125);
+}
